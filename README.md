@@ -1,4 +1,4 @@
-Abstract
+#Abstract
 
 The primary objective of this project is to investigate the effectiveness of two DRL agents
 in the portfolio management problem. Furthermore, we want to compare their performance
@@ -11,3 +11,4 @@ DRL models are then compared with respect to their annual return, Sharpe ratio, 
 volatility, maximum drawdown, and other metrics.
 
 Data Description, Methodology and Results are present in the Reinforcement Learning for Stock Market Investment (Paper).pdf
+Google drive link for the whole file - https://bit.ly/474tghC
